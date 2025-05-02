@@ -1,0 +1,81 @@
+Awesome! Here's the full classification of all the problems you've listed, grouped by **patterns** commonly used in coding interviews and LeetCode. This should help you build pattern recognition while solving problems.
+
+---
+
+### 🔁 **Array Traversal / Manipulation**
+
+1. **Build Array from Permutation** – Index mapping  
+2. **Concatenation of Array** – Concatenation  
+3. **Running Sum of 1d Array** – Prefix Sum  
+4. **Shuffle the Array** – Rearranging based on index  
+5. **Kids With the Greatest Number of Candies** – Max comparison  
+6. **Number of Good Pairs** – Counting with nested loop / Hash map  
+7. **How Many Numbers Are Smaller Than the Current Number** – Brute force / sorting  
+8. **Create Target Array in the Given Order** – Insert at index  
+9. **Count Items Matching a Rule** – Filter + traversal  
+10. **Find the Highest Altitude** – Prefix sum  
+11. **Find Numbers with Even Number of Digits** – Condition check  
+12. **Add to Array-Form of Integer** – Manual addition (simulate carry)
+
+---
+
+### 🧮 **Matrix Traversal**
+
+1. **Richest Customer Wealth** – Row-wise sum  
+2. **Flipping an Image** – Flip + invert (row-level operations)  
+3. **Cells with Odd Values in a Matrix** – Matrix update via operations  
+4. **Matrix Diagonal Sum** – Diagonal traversal  
+5. **Transpose Matrix** – Flip rows/columns  
+6. **Lucky Number In a Matrix** – Min row, max column check  
+7. **Reshape the Matrix** – Row-column mapping  
+8. **Determine Whether Matrix Can Be Obtained By Rotation** – Rotation simulation
+
+---
+
+### 📊 **Prefix Sum / Cumulative Logic**
+
+1. **Running Sum of 1d Array**  
+2. **Find the Highest Altitude**
+
+---
+
+### 📏 **Greedy / Optimization**
+
+1. **Minimum Cost to Move Chips to The Same Position** – Parity-based logic (even-odd positions)
+
+---
+
+### 🔢 **Number Theory / Simulation**
+
+1. **Add to Array-Form of Integer** – Simulate addition  
+2. **Plus One** – Simulate addition with carry
+
+---
+
+### 📦 **Hashing / Set / Filtering**
+
+1. **Check if the Sentence Is Pangram** – Set of unique chars  
+2. **Maximum Population Year** – Use array as hashmap (frequency range compression)
+
+---
+
+### 🔍 **Two Pointers / Sorting / Searching**
+
+1. **Remove Duplicates from Sorted Array** – Two pointers  
+2. **Two Sum** – Hashmap for complement
+
+---
+
+### ➕ **Math / Constructive Logic**
+
+1. **Find N Unique Integers Sum up to Zero** – Construct array such that sum is 0
+
+---
+
+### 💪 **Dynamic Programming / Kadane's Algorithm**
+
+1. **Maximum Subarray** – Kadane’s Algorithm
+
+---
+
+Let me know if you want **code templates**, **difficulty ratings**, or **practice strategy** based on these patterns!
